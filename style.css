@@ -1,0 +1,63 @@
+h1, h2, p {
+  color: #fff;
+}
+
+header {
+  width: 100%;
+  margin: 50px auto;
+}
+
+.pokeWrapper {
+  display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+	max-width: 600px;
+  
+}
+
+.pokemonCard {
+  margin: 30px 10px;  
+  display: flex;
+}
+
+.col {
+  color: #253afa;
+}
+
+.pokeIMG img {
+  width: 150px;
+  height: 150px;
+}
+
+.navWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.pokemonIMG img  {
+  margin-right: 20px;
+  width: 250px;
+  height: 250px;
+}
+
+/* .name {
+  text-align: center;
+}
+
+.type {
+  text-align: center;
+  color: #fff;;
+}
+
+.ability {
+  text-align: center;
+  color: #fff;
+} */
